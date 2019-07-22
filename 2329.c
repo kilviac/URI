@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-
 int busca(int *v, int i, int f, int p, int qtp) {
 
     int soma = 0, k, vm, r=-1, m;
-
 
     while(i<=f) {
 
@@ -31,8 +29,6 @@ int busca(int *v, int i, int f, int p, int qtp) {
 
     }
     return r;
-
-
 }
 
 int main () {
@@ -60,8 +56,6 @@ int main () {
     int x;
     x = busca(vet, 0, maior, p, qtp);
     printf("%i\n", x);
-
-
 
     return 0;
 }
