@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main ()
-{
+int main () {
     int t,i,j;
     scanf("%i", &t);
 
@@ -39,9 +38,7 @@ int main ()
         printf("%.2f\n", maior_troco);
 
     }
-
-
+    
     return 0;
-
-
 }
+
