@@ -32,3 +32,4 @@ int numPrimo (int numero) {
     }
     return cont;
 }
+
