@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main ()
-{
+int main () {
 	long va = 0, n, x = 0;
 	while (scanf("%ld", &n) != EOF){
 		
@@ -28,3 +27,4 @@ int main ()
 	return 0;
 	}
 }
+
