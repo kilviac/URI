@@ -26,4 +26,7 @@ int main() {
 	
 		turma++;
     scanf ("%d", &n);	
-	}
+	}	
+		
+	return 0;	
+}
